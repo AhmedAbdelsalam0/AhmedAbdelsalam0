@@ -1,9 +1,22 @@
 # *Hi Folks 👋 This Is Ahmed*
+> ## *Software Developer & Cyber Security Enthusiast*
+
+<p align="center" >
+  <img 
+    src="https://github.com/AhmedAbdelsalam0/AhmedAbdelsalam0/blob/main/coding.gif" width="40%"
+   />
+</p>
+
+
+<!--  // to show backgroung picture , but better to remove the gif and subtitle ...
 ![Profile Background](https://github.com/AhmedAbdelsalam0/AhmedAbdelsalam0/blob/main/background.jpg)
+-->
+
 
 # *About Me*
   - *I am Ahmed , A computer science student who is looking for an opportunity in software industry or IT field.*
   - *I have good knowledge in **Mobile Apps Development & Cyber Cecurity**.*
+
 
 
 
@@ -20,8 +33,9 @@
 
 
 
+
 # *Cyber Security Skills*
-  - *Networking Basics ( **CCNA** )*
+  - *Networking Basics ( **CCNA** )* 
   - *Linux OS Basics ( **RHCSA Admin 1** )*
   - ***Programming & Bash Scripting** Basics*
   - *Cyber Security Fundamentals ( **CEH** )*
@@ -33,11 +47,13 @@
 
 
 
+
 # *Projects & Experience*
    ### *In Cyber Security*
    - *I Have Attended 3 Months Scholarship In **DF&IR** Track With **[CyberTalents](https://cybertalents.com/)** .*
    - *I Have Participated In **[Advent Of Cyber 3](https://tryhackme.com/room/adventofcyber3)** For 1 Month on **[TryHackMe](https://tryhackme.com/)** .*
    - *I Have Participated In Many **CTF** Competitions .*
+
 
 
    ### *In Software Development*
@@ -53,12 +69,14 @@
 
 
 
+
 # *Soft Skills*
-  - *Very Good English Commands*
+  - *Very Good English Commands* 
   - *Public Speaking & Presentation Skills*
   - *Business Development*
   - *Team Working*
   - *Leadership*
+
 
 
 
@@ -69,6 +87,29 @@
 
 
 
-# *Contact With Me*
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AhmedAbdelsalam0)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ahmed-abdelsalam-9152061a7//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/profile.php?id=100018107943462)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://flowcv.me/ahmed-abdelsalam)  
 
+# *Contact With Me*
+<p align="center">
+&nbsp; <a href="https://www.linkedin.com/in/ahmed-abdelsalam-9152061a7/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.icons8.com/plasticine/100/000000/linkedin" width="50" /></a>  
+&nbsp; <a href="https://github.com/AhmedAbdelsalam0" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.icons8.com/plasticine/100/000000/github" width="50" /></a>  
+&nbsp; <a href="https://www.facebook.com/profile.php?id=100018107943462" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.icons8.com/plasticine/100/000000/facebook" width="50" /></a>
+&nbsp; <a href="https://flowcv.me/ahmed-abdelsalam" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.icons8.com/doodle/452/domain"  width="50" /></a>  
+&nbsp; <a href="mailto:ahmedabdelsalam2000bc@gmail.com" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.icons8.com/plasticine/100/000000/gmail"  width="50" /></a>
+&nbsp; <a href="https://github.com/AhmedAbdelsalam0/AhmedAbdelsalam0/blob/main/Ahmed%20Abdelsalam%20Elgamal%20-%20CV.pdf" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.icons8.com/plasticine/100/000000/resume"  width="50" /></a>
+</p>
+
+
+
+
+<!--  // to show a snake eating commits
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
+-->
