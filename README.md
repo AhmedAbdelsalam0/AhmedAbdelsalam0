@@ -105,7 +105,9 @@
 </p>
 
 
-
+<!-- // to show most used languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedAbdelsalam0&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 <!--  // to show a snake eating commits
 <p align="center">
